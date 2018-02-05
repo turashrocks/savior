@@ -546,11 +546,11 @@
             <nav class="navbar navbar-default">
 
                 <div class="navbar-header">
-                    <a class="navbar-brand text-hide bg-size-cover" href="index.html">Jinan</a>
+                    <a class="navbar-brand text-hide bg-size-cover" href="index.php">Jinan</a>
                 </div>
                 <ul id="nav-main" class="nav navbar-nav hidden-xs">
                      <li class="#">
-                        <a href="aboutus.html">
+                        <a href="aboutus.php">
                                 About Us                           </a>
                     </li>
 
@@ -559,25 +559,25 @@
                                 Services                            </a>
                         <ul class="dropdown-menu dropdown-menu-large row list-icons" style="position: fixed; top: 60px;  text-align: center; ">
                             <li class="  col-md-3" style=" display: inline-block;float:none;">
-                                <a href="services_ride.html" class="icon-bike">
+                                <a href="services_ride.php" class="icon-bike">
                                                     Ride                                                    </a>
                             </li>
                             <li class="  col-md-3" style=" display: inline-block;float:none;">
-                                <a href="services_car.html" class="icon-car">
+                                <a href="services_car.php" class="icon-car">
                                                     Car                                             </a>
                             </li>
                             <li class="  col-md-3" style=" display: inline-block;float:none;">
-                                <a href="services_rent_a_car.html" class="icon-car">
+                                <a href="services_rent_a_car.php" class="icon-car">
                                                     Rent a Car                                                  </a>
                             </li>
                         </ul>
                     </li>
                     <li class="#">
-                        <a href="terms.html">
+                        <a href="terms.php">
                                 Terms                          </a>
                     </li>
                     <li class="#">
-                        <a href="privacy.html">
+                        <a href="privacy.php">
                                 Privacy                          </a>
                     </li>
                 </ul>
@@ -611,7 +611,7 @@
                     </li>
                 </ul>
             </nav>
-            <a id="cd-menu-trigger" href="#0" class="visible-xs"><span class="cd-menu-text">Menu</span><span class="cd-menu-icon"></span></a>
+            <a id="cd-menu-trigger" href="#" class="visible-xs"><span class="cd-menu-text">Menu</span><span class="cd-menu-icon"></span></a>
 
             <a id="btn-download" href="#" class="visible-xs btn btn-green weight-bold outline text-caps">Driver Sign-Up</a>
 
